@@ -19,5 +19,5 @@ Developed a fast-paced block placement game in Java inspired by Tetris. The proj
 - <b>Event-driven programming – for handling game events like keypresses and block placement.</b>
 
 <p align="center">
-Instructions: <br/>
+<b>Instructions: </b><br/>
 <img src="https://live.staticflickr.com/65535/54837692914_e5b71248af_b.jpg" height="80%" width="80%"/>
