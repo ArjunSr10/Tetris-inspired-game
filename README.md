@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/wz4dtsXkipA)
 
 <h2>Description</h2>
-Developed a Chess-playing AI program, aimed at helping newer players improve their skills by playing against an AI with adjustable difficulty levels. User could undo moves and reset the board. and an intuitive, visually appealing Graphical User Interface (GUI) was created, with features like draggable pieces, animated moves, as well as a move log that tracked actions using standard chess notation.
+Developed a fast-paced block placement game in Java inspired by Tetris. The project was managed using Maven, with Git for version control. Event-driven programming was used for the game logic, and logging was implemented as a standard practice for error detection. The game was built using object-oriented programming (OOP) principles in Java, and multiplayer was also developed.
 <br />
 
 <h2>🧠 Languages</h2>
